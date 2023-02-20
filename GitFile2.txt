@@ -7,3 +7,4 @@ How you doing
 hi people
 
 Testing SecondFile...
+change made by second person in the same file
