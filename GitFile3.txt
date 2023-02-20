@@ -1,1 +1,2 @@
 this is my third file
+this is a new line added to third file
