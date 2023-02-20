@@ -1,3 +1,4 @@
 This is my Second file to see another option of the add command
-Adding another line to check if diff command is
+
 Again checking the diff command now to see the difference in files in the working area
+Added new line to see the stack command and aslo deleted 2nd line
