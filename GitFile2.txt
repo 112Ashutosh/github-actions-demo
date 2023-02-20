@@ -7,5 +7,9 @@ How you doing
 hi people
 
 Testing SecondFile...
+<<<<<<< HEAD
 
 addition lines added 
+=======
+change made by second person in the same file
+>>>>>>> 90afbac3e0d21a5b7e7e616bdf68af50813b9ba1
